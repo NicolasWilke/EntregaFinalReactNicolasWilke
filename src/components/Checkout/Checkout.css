@@ -1,0 +1,96 @@
+.checkout{
+    margin-top: 7rem;
+}
+
+.checkout h2 {
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 2rem;
+    margin-left: 600px;
+}
+
+.imagenCheckout{
+    height:80px;
+}
+
+.precioCheckout {
+    width: 4rem;
+    font-weight: bolder;
+    font-size: 1.5rem;
+}
+
+.tituloLista{
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.listaCheckout {
+    margin-right: 5rem;
+    font-size: 1.5rem;
+}
+.totalPagar{
+    font-weight: bolder;
+    font-size: 1.5rem;
+}
+
+.completaFormulario{
+    font-weight: 400;
+    margin-top: 2.5rem;
+    color: #ffffff;
+}
+
+.formulario{
+    display: flex;
+    flex-direction: column;
+    padding: 2.5rem;
+    border-radius: 2rem;
+    border: solid black .2rem ;
+    background-color: rgba(169, 169, 169, 0.63);
+}
+
+.formulario label {
+    font-weight: bolder;
+    margin-bottom: .5rem;
+    font-size: 1.2rem;
+}
+
+.inputForm{
+    border-radius: 1rem;
+    margin-bottom: 1rem;
+    height: 2.5rem;
+    width: 25rem;
+    color: black;
+    font-size: 1.5rem;
+    font-weight: bolder;
+    border: solid black 2 px;
+    padding: 1rem;
+    background-color: white;
+}
+
+.botonConfirmarCompra{
+    margin-top: 2rem;
+    border-radius: 1rem;
+    height: 3rem;
+    width: 12rem;
+    font-weight: bolder;
+    border: none;
+    color: white;
+    background-color: black;
+
+}
+
+.swal2-popup.swal2-modal.swal2-show {
+    width: 50rem;
+    border-radius: 2rem;
+}
+
+.swal2-popup.swal2-modal.swal2-show button{
+    width: 10rem;
+    border-radius: 1rem;
+}
+
+div:where(.swal2-container) .swal2-html-container{
+    font-size: 2rem !important;
+    color: black !important;
+    font-weight: bolder !important;
+}

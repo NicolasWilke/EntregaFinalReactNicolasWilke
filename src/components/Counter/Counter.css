@@ -1,0 +1,41 @@
+.botones {
+    margin-top: 17.7rem;
+    margin-left: -16rem;
+    display: flex;
+    gap: .8rem;
+}
+
+button.botonRestar{
+    border: none;
+    background-color: transparent;
+    color: black;
+}
+
+.botonRestar i{
+    color: black;
+    font-size: 2rem;
+}
+
+button.botonSumar{
+    border: none;
+    background-color: transparent;
+    color: black;
+}
+
+.botonSumar i{
+    color: black;
+    font-size: 2rem;
+}
+
+.contador{
+    font-size: 1.2rem;
+}
+
+.botonAgregarCarrito{
+    background-color: black;
+    border-radius: .8rem;
+    font-weight: bolder;
+    color: white;
+    padding: 0rem .8rem;
+    border: none;
+}

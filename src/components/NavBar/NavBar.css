@@ -1,0 +1,42 @@
+.navbar{
+    background-color: white;
+    height: 4.5rem;
+}
+
+.navLinkHome{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-size: 1.2rem;
+    font-weight: bolder;
+    margin-right: 1rem;
+    margin-left: 2rem;
+    transition: .5s;
+    padding: 1rem 1rem;
+    text-decoration: none;
+}
+
+.navLinkHome:hover{
+    background-color: #8f8c8a79;
+}
+
+.navLink:hover{
+    background-color: #8f8c8a79;
+}
+
+.navLink{
+    justify-content: center;
+    align-items: center;
+    color: black ;
+    font-size: 1.2rem;
+    font-weight: bolder;
+    transition: .5s;
+    padding: 1rem 1rem;
+    text-decoration: none;
+}
+
+.imgBrand{
+    height: 3rem;
+    border: none;
+}

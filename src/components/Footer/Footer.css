@@ -1,0 +1,23 @@
+.footer{
+    border-top: 1px solid gray;
+    background-color: white;
+    height: 7rem;
+}
+
+.imgLogo{
+    height: 3rem;
+}
+
+.imgWine{
+    height: 3rem;
+}
+p{
+    font-size: .8rem;
+    font-weight: 500;
+    color: gray;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+
+

@@ -1,0 +1,24 @@
+.greeting {
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    margin-top: 6rem;
+}
+
+.greeting img {
+    
+    height: 12rem;
+    object-fit: contain;
+}
+
+.tituloGreeting {
+    padding-top: 2rem;
+    color: #aa9293;
+    align-self: center;
+    font-family: 'Josefin Sans', sans-serif;
+    text-transform: uppercase;
+    font-size: 2rem;
+    font-weight: bolder;
+    letter-spacing: .5rem;
+    margin-bottom: -1rem;
+}

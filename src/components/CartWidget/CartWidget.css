@@ -1,0 +1,25 @@
+.cart {
+    margin-right: 2.3rem;
+    font-size: 2rem;
+    cursor: pointer;
+    color: black;
+    transition: .5s;
+    z-index: 1;
+}
+
+.cart:hover {
+    color: #481f4f;
+}
+
+.cartCounter {
+    color: #ffff;
+    position: absolute;
+    margin-left: 1.8rem;
+    top: 4px;
+    cursor: default;
+    background-color: black;
+    border-radius: 100%;
+    border: 2px solid #ffff;
+    padding: .08rem .6rem;
+    font-weight: bolder;
+}
